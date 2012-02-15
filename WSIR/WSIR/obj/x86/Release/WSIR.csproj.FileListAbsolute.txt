@@ -1,0 +1,10 @@
+C:\Users\Omie\documents\visual studio 2010\Projects\WSIR\WSIR\bin\Release\WSIR.exe
+C:\Users\Omie\documents\visual studio 2010\Projects\WSIR\WSIR\bin\Release\WSIR.pdb
+C:\Users\Omie\documents\visual studio 2010\Projects\WSIR\WSIR\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\Omie\documents\visual studio 2010\Projects\WSIR\WSIR\obj\x86\Release\WSIR.AboutForm.resources
+C:\Users\Omie\documents\visual studio 2010\Projects\WSIR\WSIR\obj\x86\Release\WSIR.Form1.resources
+C:\Users\Omie\documents\visual studio 2010\Projects\WSIR\WSIR\obj\x86\Release\WSIR.Properties.Resources.resources
+C:\Users\Omie\documents\visual studio 2010\Projects\WSIR\WSIR\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Users\Omie\documents\visual studio 2010\Projects\WSIR\WSIR\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Users\Omie\documents\visual studio 2010\Projects\WSIR\WSIR\obj\x86\Release\WSIR.exe
+C:\Users\Omie\documents\visual studio 2010\Projects\WSIR\WSIR\obj\x86\Release\WSIR.pdb
